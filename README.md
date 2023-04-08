@@ -3,6 +3,8 @@ This project has one main goal :
   - To book taxi without an downloading Namma Yatri application
   - This application is a protoype for how the application will look
   
+  
+ ![](https://github.com/ritik-1302/namma-yatri-telegram-bot/blob/master/demo.gif) 
 
 ## Before starting
 This project needs two tokens :
